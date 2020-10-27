@@ -1,1 +1,1 @@
-# levadia-wifi4eu
+# aegina-wifi4eu
